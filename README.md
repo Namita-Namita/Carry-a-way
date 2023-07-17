@@ -78,6 +78,9 @@ The project has been divided into 4 sprints to build the complete system. Each s
 * Testing implemented items.
 ## Project Snapshots:
 ## Project Flowchart:
+![Home Page-6](https://github.com/Namita-Namita/Carry-a-way/assets/31967922/62d2092d-d20e-44c0-9ae5-7d50ec5d48ce)![Home Page-4](https://github.com/Namita-Namita/Carry-a-way/assets/31967922/46232043-e532-4929-816c-5865dc24c088)
+
+
 ## Future Enhancements:
 * **Expedited Shipping Options:** To better accommodate the needs of last-minute travelers or situations that demand swift delivery, we are looking to integrate expedited shipping options into our platform. This enhancement will provide customers with a range of rapid shipping solutions, ensuring their luggage arrives promptly when they need it most.
 * **AI-Powered Chatbot:** To improve our customer service offering and provide immediate, round-the-clock support, we are planning on deploying an AI-powered chatbot. This feature will help address customer queries instantly, guide users through our platform, and provide real-time troubleshooting, creating a seamless customer experience at all hours.
