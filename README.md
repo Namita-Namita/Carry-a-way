@@ -78,7 +78,7 @@ The project has been divided into 4 sprints to build the complete system. Each s
 * Testing implemented items.
 ## Project Snapshots:
 ## Project Flowchart:
-![Home Page-6](https://github.com/Namita-Namita/Carry-a-way/assets/31967922/62d2092d-d20e-44c0-9ae5-7d50ec5d48ce)![Home Page-4](https://github.com/Namita-Namita/Carry-a-way/assets/31967922/46232043-e532-4929-816c-5865dc24c088)
+![Home Page (1)](https://github.com/Namita-Namita/Carry-a-way/assets/31967922/e2d6d907-6baa-4ab4-9b59-256812a4ac3b)
 
 
 ## Future Enhancements:
