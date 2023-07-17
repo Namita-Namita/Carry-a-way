@@ -1,5 +1,5 @@
 # CARRY-A-WAY
-*A web-based luggage shipping application*
+*A web-based luggage shipping and tracking application.*
 
 ## Contributors:
 * Shriyans Nidhish 
