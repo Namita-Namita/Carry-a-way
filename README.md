@@ -87,9 +87,24 @@ The project has been divided into 4 sprints to build the complete system. Each s
 * Implementation of the messaging and chat functionality.
 * Testing implemented items.
 ## Project Snapshots:
-<img width="416" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/ef5503fd-7092-4ce4-9fef-697ee2720ac2">Fig 1.: Snapshot of home page.
-<img width="436" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/e57bebc1-d482-4610-bfb3-66ced14b3262">
-Fig 2.: Continued snapshot of home page.
+<p align="center"><img width="416" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/ef5503fd-7092-4ce4-9fef-697ee2720ac2" style="border:1px solid black">
+<br><em>Fig 1.: Snapshot of home page.</em></p>
+<p align="center"><img width="436" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/e57bebc1-d482-4610-bfb3-66ced14b3262" style="border:1px solid black">
+<br><em>Fig 2.: Continued snapshot of home page.</em></p>
+<p align="center"><img width="418" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/dcd8c817-ecde-4f6e-ad74-fdbe4511cc14" style="border:1px solid black">
+<br><em>Fig 3.: Snapshot of how it works page.</em></p>
+<p align="center"><img width="547" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/d90fbe1f-5648-4f91-8337-d5d0a23baba7" style="border:1px solid black">
+<br><em>Fig 4.: Snapshot of Signup form.</em></p>
+<p align="center"><img width="343" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/12917c2c-6c02-4c62-b7f9-e62bf320875c" style="border:1px solid black">
+<br><em>Fig 5.: Snapshot of Sign in form.</em></p>
+<p align="center"><img width="468" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/90f89df7-ba82-4f12-8fef-a3e3943b799b" style="border:1px solid black">
+<br><em>Fig 6.: Snapshot of Booking.</em></p>
+<p align="center"><img width="468" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/eb942cca-b26a-44e8-8983-f410e3934b77" style="border:1px solid black">
+<br><em>Fig 7.: Continued snapshot of Booking.</em></p>
+<p align="center"><img width="468" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/5a6acaa7-4522-4d29-98a1-379786dd054c" style="border:1px solid black">
+<br><em>Fig 8.: Snapshot of confirmed book with reference.</em></p>
+<p align="center"><img width="468" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/b1da844b-585a-4f99-9efb-11933a599092" style="border:1px solid black">
+<br><em>Fig 9.: Snapshot of Bag calculator.</em></p>
 
 ## Project Flowchart:
 ![Home Page (1)](https://github.com/Namita-Namita/Carry-a-way/assets/31967922/e2d6d907-6baa-4ab4-9b59-256812a4ac3b)
