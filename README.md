@@ -29,11 +29,21 @@ This project was generated with **Angular CLI version 16.0.5**
 
 ### Build
 * Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```
+ng build
+```
 ### Backend execution command
-* `go run signupauth.go`
+```
+go run signupauth.go
+```
 ### Frontend execution command
-* `ng serve`
-* Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+```
+ng serve
+```
+* Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```
+http://localhost:4200/
+```
 
 ## Technology Stack:
 * Backend: Go (Golang) for server-side development
@@ -77,6 +87,10 @@ The project has been divided into 4 sprints to build the complete system. Each s
 * Implementation of the messaging and chat functionality.
 * Testing implemented items.
 ## Project Snapshots:
+<img width="416" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/ef5503fd-7092-4ce4-9fef-697ee2720ac2">Fig 1.: Snapshot of home page.
+<img width="436" alt="image" src="https://github.com/Namita-Namita/Carry-a-way/assets/31967922/e57bebc1-d482-4610-bfb3-66ced14b3262">
+Fig 2.: Continued snapshot of home page.
+
 ## Project Flowchart:
 ![Home Page (1)](https://github.com/Namita-Namita/Carry-a-way/assets/31967922/e2d6d907-6baa-4ab4-9b59-256812a4ac3b)
 
